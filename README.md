@@ -4,13 +4,13 @@
 Deploy it with just browser settings — no agents or appliances required.  
 It provides HTTPS visibility, antivirus scanning, web filtering, and log auditing in one simple solution.
 
-🌐 **Official Website**: [https://promoproxy.net](https://promoproxy.net)  
-📘 **Documentation**: [https://promoproxy.net/docs/intro](https://promoproxy.net/docs/intro)  
-📝 **Feedback & Issues**: [GitHub Issues](https://github.com/promoproxy/promoproxy/issues)
+**Official Website**: [https://promoproxy.net](https://promoproxy.net)  
+**Documentation**: [https://promoproxy.net/docs/intro](https://promoproxy.net/docs/intro)  
+**Feedback & Issues**: [GitHub Issues](https://github.com/promoproxy/promoproxy/issues)
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **Simple Setup**  
   Distribute a PAC file and install the inspection certificate. That’s it.  
 - **Visibility into Encrypted Traffic**  
@@ -26,23 +26,23 @@ It provides HTTPS visibility, antivirus scanning, web filtering, and log auditin
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 - **Enterprises**: Strengthen web security with no additional hardware.  
 - **Educational Institutions**: Protect students with safe browsing policies.  
 - **Remote Work**: Provide office-level security anywhere.
 
 ---
 
-## 💬 Feedback
+## Feedback
 This repository serves as **PromoProxy’s official profile and feedback box**.  
 If you have suggestions, feature requests, or bug reports, please open a new [Issue](https://github.com/promoproxy/promoproxy/issues).
 
 ---
 
-## 📢 Pricing
+## Pricing
 - **Free Plan** (Available now)  
   - Up to 5 users  
   - 1 GB / day data volume  
 - **Pro / Enterprise Plans** (Coming soon)  
 
-👉 Start for free: [Contact us](https://promoproxy.net/contact)
+Start for free: [Contact us](https://promoproxy.net/contact)

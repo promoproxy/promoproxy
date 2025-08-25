@@ -1,4 +1,4 @@
-# PromoProxy | Free Cloud SWG
+# PromoProxy Free Cloud SWG
 
 **PromoProxy** is a free, cloud-based Secure Web Gateway (SWG).  
 Deploy it with just browser settings — no agents or appliances required.  

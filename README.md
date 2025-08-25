@@ -35,7 +35,7 @@ It provides HTTPS visibility, antivirus scanning, web filtering, and log auditin
 
 ## Feedback
 This repository serves as **PromoProxy’s official profile and feedback box**.  
-If you have suggestions, feature requests, or bug reports, please open a new [Issue](https://github.com/promoproxy/promoproxy/issues).
+If you have suggestions, feature requests, or bug reports, please open a new [Issue](https://github.com/promoproxy/promoproxy/issues).  
 Please understand that while we review all feedback, we may not be able to reply to every submission, and we cannot guarantee that every request will be accepted or implemented.
 
 ---

@@ -1,5 +1,7 @@
 # PromoProxy Free Cloud SWG
 
+[![PromoProxy](images/promoproxy-hero.png)](https://promoproxy.net)
+
 **PromoProxy** is a free, cloud-based Secure Web Gateway (SWG).  
 Deploy it with just browser settings — no agents or appliances required.  
 It provides HTTPS visibility, antivirus scanning, web filtering, and log auditing in one simple solution.

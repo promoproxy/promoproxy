@@ -48,4 +48,4 @@ Please understand that while we review all feedback, we may not be able to reply
   - 3 GB / day data volume  
 - **Pro / Enterprise Plans** (Coming soon)  
 
-Start for free: [Contact us](https://promoproxy.net/contact)
+Start for free: [Contact us](https://promoproxy.net/c/contact)

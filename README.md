@@ -45,7 +45,7 @@ Please understand that while we review all feedback, we may not be able to reply
 ## Pricing
 - **Free Plan** (Available now)  
   - Up to 5 users  
-  - 1 GB / day data volume  
+  - 3 GB / day data volume  
 - **Pro / Enterprise Plans** (Coming soon)  
 
 Start for free: [Contact us](https://promoproxy.net/contact)
